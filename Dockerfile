@@ -5,7 +5,7 @@ FROM wordpress
 # these should be removed and set during docker run.
 ENV WORDPRESS_DB_HOST=127.0.0.1 \
     WORDPRESS_DB_USER=pisarnaDBtqiwc \
-    WORDPRESS_DB_PASSWORD= ${{ secrets.WORDPRESS_DB_PASSWORD }} \
+    WORDPRESS_DB_PASSWORD= 1CNIWtk0F9 \
     WORDPRESS_DB_NAME=pisarnaDBtqiwc \
     WORDPRESS_TABLE_PREFIX=wp_
 
