@@ -11,7 +11,7 @@
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
 
-		<?php get_template_part( 'template-parts/widgets-footer' ); ?>
+		<?php get_template_part( 'template-parts/widgets-footer' );  if( function_exists('slbd_display_widgets') ) { echo slbd_display_widgets(); } ?>
 
 		<div class="site-info">
 

@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Event Page Templates Addon For The Events Calendar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-11 06:08+0000\n"
+"PO-Revision-Date: 2020-04-15 18:04+0000\n"
+"Last-Translator: Luka Četina\n"
+"Language-Team: Slovenščina\n"
+"Language: sl_SI\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : "
+"n%100==3||n%100==4 ? 2 : 3;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.2; wp-5.3.2"
+
+#: epta-template/epta-template-1.php:44
+msgid "All Events"
+msgstr ""
+
+#: epta-template/epta-template-1.php:122
+msgid "days"
+msgstr "dnevi"
+
+#: epta-template/epta-template-1.php:126
+msgid "hours"
+msgstr "ure"
+
+#: epta-template/epta-template-1.php:130
+msgid "min"
+msgstr "min"
+
+#: epta-template/epta-template-1.php:134
+msgid "sec"
+msgstr "sek"
+
+#: epta-template/epta-template-1.php:223 epta-template/epta-template-2.php:109
+msgid "Related Events"
+msgstr "Podobni dogodki"
+
+#: includes/epta-function.php:157
+msgid "Share This Event"
+msgstr "Delite ta dogodek"
+
+#. Name of the plugin
+msgid "The Events Calendar Event Details Page Templates"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Design awesome single event page for The Events Calendar free plugin (by "
+"modern tribe) using Event Page Templates Addon."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://eventscalendartemplates.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Cool Plugins"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://coolplugins.net/"
+msgstr ""
